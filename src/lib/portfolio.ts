@@ -2,7 +2,7 @@ export const profile = {
   github: "https://github.com/MDRyhanMunna",
   linkedin: "",
   email: "mryhanmunna@gmail.com",
-  resume: "/Md_Ryhan_Munna_Resume.docx",
+  resume: "/Md_Ryhan_Munna_Resume.pdf",
 };
 
 export const skills = [
