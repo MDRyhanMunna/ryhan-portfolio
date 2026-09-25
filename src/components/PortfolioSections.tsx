@@ -275,7 +275,7 @@ export function ResumeSection() {
       </div>
       {profile.resume ? (
         <a className="button primary" href={profile.resume} target="_blank" rel="noreferrer">
-          Download resume (Word) <ArrowUpRight size={17} />
+          Download resume <ArrowUpRight size={17} />
         </a>
       ) : (
         <div className="resume-pending">
