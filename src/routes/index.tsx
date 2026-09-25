@@ -37,7 +37,7 @@ function Index() {
             <h1>
               Md. Ryhan
               <br />
-              <span>Munna.</span>
+              <span>Munna</span>
             </h1>
             <h2>Computer Science & Engineering Student</h2>
             <AnimatedInterests />
